@@ -114,7 +114,7 @@
                         Can you explain to me why the route <a href="test2">/test2</a> is failing
                        <hr/>
                         <b>Answer: </b>
-                        Because your accessing it via get method as it is currently set in a post method,  it can only be accessed by form submit with post method, ajax request, postman or any app that can request via post.
+                        Because you are accessing it via get method as it is currently set in a post method,  it can only be accessed by form submit with post method, ajax request, postman or any app that can request via post.
                    </li>
                    <li>
                         Install the package `laravel/telescope` into your copy of the repo
