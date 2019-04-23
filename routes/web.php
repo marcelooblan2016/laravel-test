@@ -17,4 +17,9 @@ Route::get('/', function () {
 
 Route::get('test', 'TestController@test');
 
+Route::group(['prefix'=>'reports'], function(){
+	Route::get('/', 'ReportController@index');
+});
+
+
 Route::post('test2', 'TestController@post');
