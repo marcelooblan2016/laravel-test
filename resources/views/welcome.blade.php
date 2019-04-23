@@ -116,8 +116,14 @@
                         <b>Answer: </b>
                         Because your accessing it via get method as it is currently set in a post method,  it can only be accessed by form submit with post method, ajax request, postman or any app that can request via post.
                    </li>
-                   <li>Install the package `laravel/telescope` into your copy of the repo</li>
-                   <li>Commit your updates to a forked repo for me to download.</li>
+                   <li>
+                        Install the package `laravel/telescope` into your copy of the repo
+                        &nbsp; <b>*done</b>
+                   </li>
+                   <li>
+                        Commit your updates to a forked repo for me to download.
+                        &nbsp; <b>*done</b>
+                    </li>
                </ul>
 
 
